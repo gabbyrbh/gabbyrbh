@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Gabby
 - 👀 I’m interested in sustainable strategies to meet the health challenges of climate change & development 
-- 🌱 I’m currently learning R, Python
+- 🌱 I currently code in R, Python
 - 📫 How to reach me: gabbyrbh@stanford.edu
 
 <!---
