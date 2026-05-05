@@ -1,7 +1,6 @@
-- 👋 Hi, I’m @gabbyrbh
-- 👀 I’m interested in strategies to meet the challenges of climate change, decolonization of academia & development 
+- 👋 Hi, I’m Gabby
+- 👀 I’m interested in sustainable strategies to meet the health challenges of climate change & development 
 - 🌱 I’m currently learning R, Python
-- 💞️ I’m looking to collaborate on projects isolating variables within interactive systems in environmental & public health contexts
 - 📫 How to reach me: gabbyrbh@stanford.edu
 
 <!---
